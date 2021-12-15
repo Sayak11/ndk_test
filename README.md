@@ -14,8 +14,8 @@
 
 ### 𝚂𝚝𝚎𝚙𝚜 𝚝𝚘 𝚛𝚞𝚗 𝚞𝚗𝚒𝚝 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 :-
 
-```make
-cmake - S . - B build
+```c++
+ cmake - S . - B build
  cmake --build build
  cd build
  ctest
